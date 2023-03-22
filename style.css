@@ -56,7 +56,7 @@ li hi a{
     color: black;
 }
 
-li.close{
+li .close{
     position: absolute;
     right: 1em;
     top:1em;
